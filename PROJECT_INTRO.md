@@ -123,8 +123,6 @@ This submission package includes:
 - `Circuit Diagrams/DisplayCircuit.kicad_sch`: display and indicator circuit schematic.
 - `Circuit Diagrams/Launcher.kicad_sch`: launcher circuit schematic.
 - `Code/ESP32_S3_arduino/`: main ESP32-S3 robot firmware.
-- `Code/Arduino_IR_Beacon_750_1k5/`: Arduino timer sketch for generating 750 Hz and 1.5 kHz IR beacon test signals.
-- `Code/line_follower_test/`: standalone line follower test code.
 
 ## Results and Lessons Learned
 
