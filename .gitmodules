@@ -1,0 +1,3 @@
+[submodule "Code/BallShootingBot_ME588_FinalProject"]
+	path = Code/ESP32_S3_arduino
+	url = git@github.com:JasonShiao/BallShootingBot_ME588_FinalProject.git
